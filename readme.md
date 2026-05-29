@@ -3,11 +3,11 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/karanveer91/PRACTICES-QUESTIONS-FOR-PYTHON.git
+git remote add origin  https://github.com/karanveer91/python_practice-.git
 git push -u origin main
 
 -----------------------------------------------------------------------
-git remote add origin https://github.com/karanveer91/PRACTICES-QUESTIONS-FOR-PYTHON.git
+git remote add origin  https://github.com/karanveer91/python_practice-.git
 git branch -M main
 git push -u origin main
 
@@ -144,7 +144,7 @@ print("Sum:", sum)
 1. Clone this repository
 
 ```
-git clone https://github.com/karanveer91/PRACTICES-QUESTIONS-FOR-PYTHON.git
+git clone  https://github.com/karanveer91/python_practice-.git
 ```
 
 2. Open the folder in your code editor.
